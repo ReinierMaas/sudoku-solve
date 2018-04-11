@@ -1,0 +1,12 @@
+[package]
+name = "sudoku"
+version = "0.1.0"
+authors = ["Reinier Maas <ReinierMaas@hotmail.com>"]
+
+[dependencies]
+bit-vec = "*"
+bit-set = "0.4.0"
+structopt = "0.2"
+time = "*"
+termion = "*"
+indoc = "0.2"
